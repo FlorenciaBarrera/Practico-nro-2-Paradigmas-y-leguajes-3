@@ -1,1 +1,1 @@
-# Practico-nro-2-Paradigmas-y-leguajes-3
+# Practico-nro-2-Paradigmas-y-lenguajes-3
